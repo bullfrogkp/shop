@@ -61,3 +61,22 @@ django-admin.py startproject mysite
 pwd
 cd ..
 django-admin.py startproject mysite
+ls
+python -V
+history
+fileUpload
+source myvenv/bin/activate
+cd shop
+source myvenv/bin/activate
+cd shop
+source myvenv/bin/activate
+cd ..
+ls
+ls -a
+cd .virtualenvs
+ls
+cd pqhitpan.pythonanywhere.com
+source bin/activate
+python -V
+python
+exit
