@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1551980241,,"wq"
+|2,0,1552004467,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,32 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1551980241,"~/.git/COMMIT_EDITMSG"
-'1  217  0  ~/.git/COMMIT_EDITMSG
-|4,49,217,0,1551391183,"~/.git/COMMIT_EDITMSG"
+'0  1  2  ~/.git/COMMIT_EDITMSG
+|4,48,1,2,1552004467,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1551980241,"~/.git/COMMIT_EDITMSG"
 '2  217  0  ~/.git/COMMIT_EDITMSG
 |4,50,217,0,1551391183,"~/.git/COMMIT_EDITMSG"
+'3  217  0  ~/.git/COMMIT_EDITMSG
+|4,51,217,0,1551391183,"~/.git/COMMIT_EDITMSG"
+'4  217  0  ~/.git/COMMIT_EDITMSG
+|4,52,217,0,1551391183,"~/.git/COMMIT_EDITMSG"
+'5  217  0  ~/.git/COMMIT_EDITMSG
+|4,53,217,0,1551391183,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1552004467,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1551980241,"~/.git/COMMIT_EDITMSG"
 -'  217  0  ~/.git/COMMIT_EDITMSG
 |4,39,217,0,1551391183,"~/.git/COMMIT_EDITMSG"
 -'  217  0  ~/.git/COMMIT_EDITMSG
 |4,39,217,0,1551391183,"~/.git/COMMIT_EDITMSG"
+-'  217  0  ~/.git/COMMIT_EDITMSG
+|4,39,217,0,1551391183,"~/.git/COMMIT_EDITMSG"
+-'  5  0  ~/.git/COMMIT_EDITMSG
+|4,39,5,0,1551391131,"~/.git/COMMIT_EDITMSG"
 -'  5  0  ~/.git/COMMIT_EDITMSG
 |4,39,5,0,1551391131,"~/.git/COMMIT_EDITMSG"
 -'  5  0  ~/.git/COMMIT_EDITMSG
@@ -49,10 +61,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1551980240	0
-	"	1	0
-	^	1	1
-	.	1	0
+	*	1552004466	0
+	"	1	2
+	^	1	3
+	.	2	0
 	+	4	0
 	+	3	0
-	+	1	0
+	+	1	3
+	+	2	0
